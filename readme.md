@@ -1,29 +1,23 @@
 # awesome-ACAB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A list of potential software reources for all things ACAB, police corruption, and the Black Lives Matter movement
+> A list of potential software reources for all things ACAB, police corruption, and the Black Lives Matter movement.
 
 
 ## Contents
 
-- [Section](#section)
+- [Police Brutality](#police-brutality)
 - [Another Section](#another-section)
 
+## Police Brutality
 
-## Section
+### Data
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
+- [SPD Use of Force](https://data.seattle.gov/Public-Safety/Use-Of-Force/ppi5-g2bj)
 - [List item](http://example.com)
 
 
 ## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+About this section. Optional. Keep this short and focus on the list.
 
 ## Contribute
 
