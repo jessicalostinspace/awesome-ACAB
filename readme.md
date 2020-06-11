@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img src="awesome-fist" width="150"/>
+    <img src="awesome-fist.png" width="150"/>
   <br>
 </p>
 
