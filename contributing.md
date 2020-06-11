@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure you include a description of the relevancy of the resource you are adding.
+- Make sure titles are Title Cased: https://titlecaseconverter.com/
+- If you don't see an appropriate section to add your resource to, add one. 
 
 Thank you for your suggestions!
 

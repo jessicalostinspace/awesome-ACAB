@@ -1,29 +1,35 @@
+<p align="center">
+  <br>
+    <img src="awesome-fist" width="150"/>
+  <br>
+</p>
+
 # awesome-ACAB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A list of potential software reources for all things ACAB, police corruption, and the Black Lives Matter movement
+> A list of potential software resources for all things ACAB, police corruption, and the Black Lives Matter movement.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Black Lives Matter](#black-lives-matter)
+- [Police](#police)
+
+## Black Lives Matter
 
 
-## Section
+## Police
+Just Pig Things.
 
-About this section. Optional. Keep this short and focus on the list.
+### Monitoring
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Police Scanner](https://openmhz.com/)
+- [SDOT Conglomeration](https://pig.observer/seattle)
+- [Aircraft Tracker](https://tar1090.adsbexchange.com/)
 
+### Data
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [SPD Use of Force](https://data.seattle.gov/Public-Safety/Use-Of-Force/ppi5-g2bj)
+- [SPD Officer Involved Shootings](https://data.seattle.gov/Public-Safety/SPD-Officer-Involved-Shooting-OIS-Data/mg5r-efcm)
 
 ## Contribute
 
